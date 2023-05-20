@@ -14,4 +14,5 @@ set(TESTED_SOURCE
     ../examples/autotest-validate/autotest-validate.c
     ../examples/systemcalls/systemcalls.c
 )
+set(CMAKE_BUILD_TYPE Debug)
 add_subdirectory(assignment-autotest)
