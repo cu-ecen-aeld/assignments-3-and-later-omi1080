@@ -1,2 +1,2 @@
 home is $HOME
-omi1080
+ubuntu
